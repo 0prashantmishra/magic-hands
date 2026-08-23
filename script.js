@@ -21,7 +21,7 @@ const frameProducts = [
   {
     badge: "Best seller",
     name: "Wedding Garland Keepsake Frame",
-    size: "Small · 6x6 in",
+    size: "Small ",
     price: "₹1,499",
     priceNote: "starting",
     desc: "A compact frame for a section of your varmala or a single strand — perfect for a shelf or bedside table.",
@@ -39,7 +39,7 @@ const frameProducts = [
   {
     badge: "Statement piece",
     name: "Grand Wedding Memory Frame",
-    size: "Large · 16x20 in",
+    size: "small",
     price: "₹3,499",
     priceNote: "starting",
     desc: "A wall centrepiece — both garlands, invitation card details and dried florals composed together.",
@@ -57,7 +57,7 @@ const frameProducts = [
   {
     badge: "New",
     name: "Bridal Bouquet Preservation Frame",
-    size: "Medium · 10x12 in",
+    size: "small",
     price: "₹2,499",
     priceNote: "starting",
     desc: "Your bouquet, pressed and set in a soft arc composition — a lasting piece from the biggest day.",
@@ -96,7 +96,7 @@ const rakhiProducts = [
   {
     badge: "Set of 2",
     name: "Rakhi + Lumba Set",
-    size: "Set of 2",
+    size: "Set of 1",
     price: "₹249",
     priceNote: "per set",
     desc: "A matching rakhi and lumba rakhi pair, coordinated in colour and florals.",
